@@ -1,3 +1,7 @@
+.textCenter{
+  width:100%;
+  text-align:center;
+}
 .playground{ width: 525px; height: 550px;
 	margin: 20px auto 0 auto;
 	position: relative;
